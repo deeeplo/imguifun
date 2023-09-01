@@ -1,2 +1,0 @@
-# my First Imgui Project
-🙂
